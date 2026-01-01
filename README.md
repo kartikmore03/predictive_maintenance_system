@@ -1,4 +1,4 @@
-# Predictive Maintenance for Industrial Equipment (AI4I 2020)
+# Predictive Maintenance for Industrial Equipment 
 
 This project focuses on predicting **machine failures** using historical operational and sensor data from industrial equipment.  
 The main idea is to support **predictive maintenance** by estimating the probability of a machine failing ahead of time, allowing maintenance to be scheduled before a breakdown actually happens.
