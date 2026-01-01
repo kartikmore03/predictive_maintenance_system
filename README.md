@@ -3,7 +3,7 @@
 This project focuses on predicting **machine failures** using historical operational and sensor data from industrial equipment.  
 The main idea is to support **predictive maintenance** by estimating the probability of a machine failing ahead of time, allowing maintenance to be scheduled before a breakdown actually happens.
 
----
+
 
 ## Dataset
 
@@ -12,7 +12,7 @@ The main idea is to support **predictive maintenance** by estimating the probabi
 
 The dataset includes information such as air and process temperature, rotational speed, torque, tool wear, and a binary label indicating whether a machine failure occurred.
 
----
+
 
 ## Tech Stack
 
@@ -22,7 +22,7 @@ The dataset includes information such as air and process temperature, rotational
 - XGBoost  
 - Joblib  
 
----
+
 
 ## Project Structure
 
@@ -38,7 +38,7 @@ The dataset includes information such as air and process temperature, rotational
 - **`src/predict_example.py`**  
   Shows how to load the saved model and preprocessor to predict the failure probability for a single machine input.
 
----
+
 
 ## How to Run
 
